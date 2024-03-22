@@ -1,8 +1,17 @@
 # Project 5 - *Tumblr Feed*
 
-Submitted by: **Your Name Here**
+Submitted by: **Muhammed Ashfaq**
 
 **Tumblr Read ** is an app that fetches Tumblr feeds 
+
+<div>
+    <a href="https://www.loom.com/share/5ff9080f044e46648d54f08d4ae5d28f">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 22 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/5ff9080f044e46648d54f08d4ae5d28f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5ff9080f044e46648d54f08d4ae5d28f-with-play.gif">
+    </a>
+  </div>
 
 Time spent: **2** hours spent in total
 
